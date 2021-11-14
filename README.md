@@ -23,5 +23,4 @@ Clone and run as
 cargo run -- -b localhost:9092
 ```
 
-
-
+If you're looking for prettier output, try [totop](https://github.com/jcaesar/totop).
